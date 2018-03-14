@@ -1,0 +1,18 @@
+git init
+git add -A
+git commit -m "Initial commit"
+git add -A
+git commit -m "modify l1.txt"
+git remote add origin https://github.com/koolThing7/lab1.git
+git push -u origin master
+git reset --hard
+git branch logging
+git checkout logging
+git add log.txt
+git commit -m "git log"
+git push -u origin logging
+git checkout master
+git merge logging
+git push -u origin master
+git branch allcomands
+git checkout allcomands
