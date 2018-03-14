@@ -1,0 +1,13 @@
+$ git log
+commit 6e54ab51f45ec65622dc5395cace471be2716c91 (HEAD -> logging, origin/master,          master)
+Author: Goran <goran.ilioski@students.finki.ukim.mk>
+Date:   Wed Mar 14 17:29:37 2018 +0100
+
+    modify l1.txt
+
+commit 52d47e8b39250e322a6653e6aef9fb4f7747df4b
+Author: Goran <goran.ilioski@students.finki.ukim.mk>
+Date:   Wed Mar 14 17:25:32 2018 +0100
+
+    Initial commit
+ 
